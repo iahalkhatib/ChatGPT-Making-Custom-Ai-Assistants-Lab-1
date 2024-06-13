@@ -1,5 +1,3 @@
-![image](https://github.com/iahalkhatib/ChatGPT-Making-Custom-Ai-Assistants/assets/170050432/4ce4a668-6c3a-4425-a0eb-602f8a7c8f1a)# ChatGPT-Making-Custom-Ai-Assistants
-
 
 # 1. Task 1. Programming a GPT.
 
